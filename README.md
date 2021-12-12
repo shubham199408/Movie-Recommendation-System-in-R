@@ -1,1 +1,1 @@
-# Predicting Cancer Mortality rate in US County
+# Predicting Cancer Mortality Rate in US County
