@@ -1,1 +1,1 @@
-# Predicting Cancer Mortality rate in US using R
+# Predicting Cancer Mortality rate in US County
